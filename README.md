@@ -1,9 +1,12 @@
-大模型秋招手撕代码大全。
+大模型面试手撕代码大全。
 
 欢迎 PR！
 
-已有分支：
-- 损失函数 LossFunction 
+已有实现：
+- 损失函数 LossFunction
+  - 交叉熵损失函数 
+- 计算函数 CalFuntilon
+  - Softmax函数
 
 ROADMAP：
   - 强化学习优化目标函数
